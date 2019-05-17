@@ -1,1 +1,35 @@
 
+{
+  "books": [
+    {
+      "titulo":"Pulp Fiction",
+      "genero": "Açao",
+      "autor": "a"
+    },
+    {
+      "titulo":"Solo: A Star Wars History",
+      "genero": "Aventura",
+      "autor": "b"
+    },
+    {
+      "titulo":"Bird Box",
+      "genero": "Drama",
+      "autor": "c"
+    },
+    {
+      "titulo":"Get Out",
+      "genero": "Terror",
+      "autor": "d"
+    },
+    {
+      "titulo":"Spotlight",
+      "genero": "Crime",
+      "autor": "e"
+    },
+    {
+      "titulo":"Unbreakable",
+      "genero": "Drama",
+      "autor": "e"
+    }
+  ]
+}
