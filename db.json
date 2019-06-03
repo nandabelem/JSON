@@ -5,31 +5,26 @@
       "titulo":"Pulp Fiction",
       "genero": "Açao",
       "autor": "a"
+      "capa": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg"
     },
     {
       "titulo":"Solo: A Star Wars History",
       "genero": "Aventura",
       "autor": "b"
+      "capa": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+
     },
     {
       "titulo":"Bird Box",
       "genero": "Drama",
       "autor": "c"
+      "capa": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
     },
     {
       "titulo":"Get Out",
       "genero": "Terror",
       "autor": "d"
+      "capa": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
     },
-    {
-      "titulo":"Spotlight",
-      "genero": "Crime",
-      "autor": "e"
-    },
-    {
-      "titulo":"Unbreakable",
-      "genero": "Drama",
-      "autor": "e"
-    }
   ]
 }
