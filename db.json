@@ -1,4 +1,11 @@
 
 
 
-[{"product_photo": "W0ludGVybmV0U2hvcnRjdXRdDQpVUkw9aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS91cmw/c2E9aSZyY3Q9aiZxPSZlc3JjPXMmc291cmNlPWltYWdlcyZjZD0mdmVkPTJhaFVLRXdpMzVNS2c1dFRpQWhWa0hia0dIUi1SQWQ0UWpSeDZCQWdCRUFVJnVybD1odHRwcyUz", "product_quantity": 1, "product_sale_price": "20.00", "product_id": 1, "product_book_publishing_house_id": 1, "product_consignee_id": 1, "product_type": "book", "product_book_year": "2000", "product_book_name": "Harry Potter e a Pedra Filosofal", "product_description": "Fantasia", "product_status": "available", "product_book_author_id": 1, "product_buy_price": "10.00"}]
+{
+  "books":[
+  "product_photo": "W0ludGVybmV0U2hvcnRjdXRdDQpVUkw9aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS91cmw/c2E9aSZyY3Q9aiZxPSZlc3JjPXMmc291cmNlPWltYWdlcyZjZD0mdmVkPTJhaFVLRXdpMzVNS2c1dFRpQWhWa0hia0dIUi1SQWQ0UWpSeDZCQWdCRUFVJnVybD1odHRwcyUz", 
+  "product_quantity": 1, "product_sale_price": "20.00", "product_id": 1, "product_book_publishing_house_id": 1, "product_consignee_id": 1, 
+  "product_type": "book", "product_book_year": "2000", "product_book_name": "Harry Potter e a Pedra Filosofal", 
+  "product_description": "Fantasia", "product_status": "available", "product_book_author_id": 1, "product_buy_price": "10.00"
+  ]
+}
