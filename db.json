@@ -1,13 +1,32 @@
-
-
-
 {
-  "books":[
+  "books": [
     {
-  "product_photo": "W0ludGVybmV0U2hvcnRjdXRdDQpVUkw9aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS91cmw/c2E9aSZyY3Q9aiZxPSZlc3JjPXMmc291cmNlPWltYWdlcyZjZD0mdmVkPTJhaFVLRXdpMzVNS2c1dFRpQWhWa0hia0dIUi1SQWQ0UWpSeDZCQWdCRUFVJnVybD1odHRwcyUz", 
-  "product_quantity": 1, "product_sale_price": "20.00", "product_id": 1, "product_book_publishing_house_id": 1, "product_consignee_id": 1, 
-  "product_type": "book", "product_book_year": "2000", "product_book_name": "Harry Potter e a Pedra Filosofal", 
-  "product_description": "Fantasia", "product_status": "available", "product_book_author_id": 1, "product_buy_price": "10.00"
+      "urlCapa": "https://images-na.ssl-images-amazon.com/images/I/515hKJfIxsL._SX334_BO1,204,203,200_.jpg",
+      "titulo": "A Arte da Felicidade",
+      "genero": "Auto-Ajuda",
+      "ano": 1998,
+      "autor": "Howard C. Cutler, Tenzin Gyatso"
+    },
+    {
+      "urlCapa": "https://images-na.ssl-images-amazon.com/images/I/41MRMmeNz0L.jpg",
+      "titulo": "A Culpa é das Estrelas",
+      "genero": "Romance",
+      "ano": 2014,
+      "autor": "John Green"
+    },
+    {
+      "urlCapa": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/ec/Safe_Haven.jpg/200px-Safe_Haven.jpg",
+      "titulo": "Porto Seguro",
+      "genero": "Romance",
+      "ano": 2013,
+      "autor": " Nicholas Sparks"
+    },
+    {
+      "urlCapa": "https://pt.wikipedia.org/wiki/O_Vendedor_de_Sonhos_(s%C3%A9rie_liter%C3%A1ria)#/media/Ficheiro:O-vendedor-de-sonhos.jpg",
+      "titulo": "O Vendedos de Sonhos",
+      "genero": "Romance",
+      "ano": 2008,
+      "autor": "Augusto Cury"
     }
-      ]
+  ]
 }
